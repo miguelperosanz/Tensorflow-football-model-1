@@ -9,4 +9,4 @@ from google.
 For a more complex machine learning model applied to football please chek my second repository "Tensor-football-model-2".
 
 The script was developed in a tensorflow environment (Firstenv). In a standard environment the import of the tensorflow 
-environment will lead to problems. 
+environment might lead to problems. 
