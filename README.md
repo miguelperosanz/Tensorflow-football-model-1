@@ -9,4 +9,6 @@ from google.
 For a more complex machine learning model applied to football please chek my second repository "Tensor-football-model-2".
 
 The script was developed in a tensorflow environment (Firstenv). In a standard environment the import of the tensorflow 
-environment might lead to problems. 
+environment might lead to problems. For a correct implementation of a new environment in Jupyter Notebook this link might be helpful:
+
+https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
